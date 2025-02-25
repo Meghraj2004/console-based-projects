@@ -3,8 +3,8 @@
 
 # Event Booking System
 
-![Event Booking Banner](![image](https://github.com/user-attachments/assets/0a60b67f-c41d-4a2f-84ea-3f7c7f551714)
-![image](https://github.com/user-attachments/assets/1f2f900f-6474-4d74-ac3a-c9195c096729))  
+(![image](https://github.com/user-attachments/assets/0a60b67f-c41d-4a2f-84ea-3f7c7f551714)
+![image](https://github.com/user-attachments/assets/1f2f900f-6474-4d74-ac3a-c9195c096729)
 *A simple command-line application built with Python and MySQL to manage event bookings efficiently.*
 
 ---
