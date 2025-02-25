@@ -50,7 +50,7 @@ Before running the project, ensure you have the following installed:
        return mysql.connector.connect(
            host="localhost",
            user="root",
-           password="Megharaj@2004",  # Update this if your password is different
+           password="",  # Update this if your password is different
            database="event_booking_system"
        )
    ```
