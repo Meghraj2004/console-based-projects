@@ -1,4 +1,3 @@
-Below is a detailed `README.md` file for your GitHub repository based on the analysis of the provided Python script (`event_booking.py`) and the MySQL database setup script (`event_booking_database.sql`). The README will include an overview, setup instructions, usage details, and more, formatted in Markdown for GitHub.
 
 ---
 
